@@ -1,8 +1,10 @@
 body {
-color: white;
-  background: red;
+color: black;
+  background: crimson;
   
 }
 header {
  border-Bottom: solid 2px rgb(42, 122, 228);
+  padding: 20px;
+  front-size: 32px;
 }
