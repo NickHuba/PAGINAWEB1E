@@ -1,7 +1,7 @@
 body {
 color: red;
   background: black;
-  
+  margin: 0px;
 }
 header {
  border-Bottom: solid 2px rgb(42, 122, 228);
